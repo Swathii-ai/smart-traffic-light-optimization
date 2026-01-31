@@ -29,7 +29,4 @@ Run the Jupyter Notebook cells sequentially to view analysis and results.
 
 Real-time traffic data integration, reinforcement learning–based control, and multi-intersection optimization.
 
-## Author
 
-**Swathiii**
-Artificial
